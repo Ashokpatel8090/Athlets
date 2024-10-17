@@ -1,0 +1,184 @@
+[
+    {
+        "id": 0,
+        "countryName": "World",
+        "capital": "No Capital",
+        "population": "Null",
+        "interestingFacts": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+      },
+    
+    {
+        "id": 1,
+        "countryName": "Afghanistan",
+        "capital": "Kabul",
+        "population": 40218234,
+        "interestingFacts": "Home to the ancient city of Balkh, known as the 'Mother of Cities'."
+    },
+    {
+        "id": 2,
+        "countryName": "Albania",
+        "capital": "Tirana",
+        "population": 2877797,
+        "interestingFacts": "Albania has more than 1,000 years of history in its castles."
+    },
+    {
+        "id": 3,
+        "countryName": "Algeria",
+        "capital": "Algiers",
+        "population": 43851044,
+        "interestingFacts": "The Sahara Desert covers more than four-fifths of Algeria."
+    },
+    {
+        "id": 4,
+        "countryName": "Andorra",
+        "capital": "Andorra la Vella",
+        "population": 77265,
+        "interestingFacts": "Andorra is one of the smallest countries in Europe."
+    },
+    {
+        "id": 5,
+        "countryName": "Argentina",
+        "capital": "Buenos Aires",
+        "population": 45195777,
+        "interestingFacts": "Argentina is known for tango and is the birthplace of the dance."
+    },
+    {
+        "id": 6,
+        "countryName": "Armenia",
+        "capital": "Yerevan",
+        "population": 2963243,
+        "interestingFacts": "Armenia was the first nation to adopt Christianity as a state religion."
+    },
+    {
+        "id": 7,
+        "countryName": "Australia",
+        "capital": "Canberra",
+        "population": 25687041,
+        "interestingFacts": "Australia is home to the Great Barrier Reef, the world's largest coral reef system."
+    },
+    {
+        "id": 8,
+        "countryName": "Austria",
+        "capital": "Vienna",
+        "population": 8917205,
+        "interestingFacts": "Austria was the birthplace of famous composers like Mozart and Beethoven."
+    },
+    {
+        "id": 9,
+        "countryName": "Azerbaijan",
+        "capital": "Baku",
+        "population": 10139177,
+        "interestingFacts": "Azerbaijan is known as the 'Land of Fire' due to its natural gas fires."
+    },
+    {
+        "id": 10,
+        "countryName": "Bangladesh",
+        "capital": "Dhaka",
+        "population": 166303498,
+        "interestingFacts": "Bangladesh is home to the Sundarbans, the largest mangrove forest in the world."
+    },
+    {
+        "id": 11,
+        "countryName": "Belgium",
+        "capital": "Brussels",
+        "population": 11589623,
+        "interestingFacts": "Belgium is known for its chocolate, waffles, and beer."
+    },
+    {
+        "id": 12,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "population": 213993437,
+        "interestingFacts": "Brazil is home to the Amazon Rainforest, the largest rainforest on Earth."
+    },
+    {
+        "id": 13,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": 38994334,
+        "interestingFacts": "Canada is the second largest country in the world by total area."
+    },
+    {
+        "id": 14,
+        "countryName": "Chile",
+        "capital": "Santiago",
+        "population": 19116209,
+        "interestingFacts": "Chile is known for its long coastline and diverse climate."
+    },
+    {
+        "id": 15,
+        "countryName": "China",
+        "capital": "Beijing",
+        "population": 1411778724,
+        "interestingFacts": "China has the world's largest population."
+    },
+    {
+        "id": 16,
+        "countryName": "Colombia",
+        "capital": "Bogotá",
+        "population": 50882891,
+        "interestingFacts": "Colombia is known for its coffee and is one of the largest coffee producers in the world."
+    },
+    {
+        "id": 17,
+        "countryName": "Costa Rica",
+        "capital": "San José",
+        "population": 5135030,
+        "interestingFacts": "Costa Rica is famous for its biodiversity and eco-tourism."
+    },
+    {
+        "id": 18,
+        "countryName": "Croatia",
+        "capital": "Zagreb",
+        "population": 4105267,
+        "interestingFacts": "Croatia is known for its stunning coastline along the Adriatic Sea."
+    },
+    {
+        "id": 19,
+        "countryName": "Cuba",
+        "capital": "Havana",
+        "population": 11313472,
+        "interestingFacts": "Cuba is famous for its classic cars and vibrant culture."
+    },
+    {
+        "id": 20,
+        "countryName": "Cyprus",
+        "capital": "Nicosia",
+        "population": 1207359,
+        "interestingFacts": "Cyprus is known for its rich history and archaeological sites."
+    },
+    {
+        "id": 21,
+        "countryName": "Czech Republic",
+        "capital": "Prague",
+        "population": 10708981,
+        "interestingFacts": "Prague is known for its stunning architecture and historic sites."
+    },
+    {
+        "id": 22,
+        "countryName": "Denmark",
+        "capital": "Copenhagen",
+        "population": 5818553,
+        "interestingFacts": "Denmark is known for its high quality of life and happiness."
+    },
+    {
+        "id": 23,
+        "countryName": "Egypt",
+        "capital": "Cairo",
+        "population": 104124440,
+        "interestingFacts": "Egypt is home to the ancient pyramids and the Nile River."
+    },
+    {
+        "id": 24,
+        "countryName": "Estonia",
+        "capital": "Tallinn",
+        "population": 1326535,
+        "interestingFacts": "Estonia is known for its digital society and e-governance."
+    }
+
+]
+
+
+
+    
+    
